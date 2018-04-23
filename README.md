@@ -1,8 +1,8 @@
 # Spatial Connect - QGIS
-A python version of the spatial connect system which targets the (QGIS)[https://www.qgis.org/en/site/index.html]
+A python version of the spatial connect system which targets the [QGIS](https://www.qgis.org/en/site/index.html)
 
-# Usage
+## Usage
 In development
 
-# Capabilities
+## Capabilities
 In development
